@@ -7,91 +7,106 @@
 
 ## Inhoudsopgave
 
-*1. introductie	4*
+*1. Samenvatting*
 
-*2. Samenvatting	4*
+*2. Introductie*
 
-*3. methodologie	5*
+*3. methodologie*
 
-*4. discovery (discover-fase)	6*
+*4. discovery (discover-fase)*
 
-*4.1 State-of-the-art (semester 1)	6*
+*4.1 State-of-the-art (semester 1)*
 
-*4.2 benchmarking (semester 1)	6*
+*4.2 benchmarking (semester 1)*
 
-*4.3 moodboards (semester 1)	9*
+*4.3 moodboards (semester 1)*
 
-*4.4 stakeholders + beslissingen	10*
+*4.4 stakeholders + beslissingen*
 
-*4.5 conclusies discovery	10*
+*4.5 conclusies discovery	*
 
-*5. Definition	11*
+*5. Definition*
 
-*5.1 Fishbone-diagram (semester 1)	11*
+*5.1 Fishbone-diagram (semester 1)*
 
-*5.2 storyboard (semester 1)	12*
+*5.2 storyboard (semester 1)*
 
-*5.3 DFV	12*
+*5.3 DFV*
 
-*5.4 wireframes + product architecture (semester 1 + 2)	13*
+*5.4 wireframes + product architecture (semester 1 + 2)*
 
-*5.5 low-fi prototypes(semester 1-2)	14*
+*5.5 low-fi prototypes(semester 1-2)*
 
-*5.6 concept testing (semester 2)	15*
+*5.6 concept testing (semester 2)*
 
-*5.6 smartglass onderzoek (semester 2)	16*
+*5.6 smartglass onderzoek (semester 2)*
 
-*5.7 conclusie definition	17*
+*5.7 conclusie definition*
 
-*6. Het concept / develop  (semester 2)	18*
+*6. Het concept / develop  (semester 2)*
 
-*6.1 smartglass	18*
+*6.1 smartglass*
 
-*6.2 stuur	18*
+*6.2 stuur*
 
-*6.3 middenconsole	19*
+*6.3 middenconsole*
 
-*6.4 het idee van A.I. te implementeren	20*
+*6.4 het idee van A.I. te implementeren*
 
-*6.5 Prototypes en Testen	21*
+*6.5 Prototypes en Testen*
 
-*7. resultaat / Delivery	26*
+*7. resultaat / Delivery*
 
-*8.Kritische Reflectie	28*
+*8.Kritische Reflectie*
 
-*9. Reflectie op Leerresultaten	28*
+*9. Reflectie op Leerresultaten*
 
-*10. Conclusie	29*
+*10. Conclusie*
 
-*11. bronnen	30*
+*11. bronnen*
 
-*12. bijlagen	31*
+*12. bijlagen*
 
-*12.1 state-of-the-art	31*
+*12.1 state-of-the-art*
 
-*12.2 template vooronderzoek	32*
+*12.2 template vooronderzoek*
 
-*12.3 storyboard	34*
+*12.3 storyboard*
 
-*12.4 stakeholders + context	35*
+*12.4 stakeholders + context*
 
-*12.5 DFV	36*
+*12.5 DFV*
 
-*12.6 wireframes	37*
+*12.6 wireframes*
 
-*12.7 concept testing stuur	39*
+*12.7 concept testing stuur*
 
-*12.8 smartglass proces	41*
+*12.8 smartglass proces*
 
-*12.9 Antropometrische analyse van de knop  46*
+*12.9 Antropometrische analyse van de knop*
 
-*12.10 stuur proces + uitleg	52*
+*12.10 stuur proces + uitleg*
 
-*12.11 iteraties stuur	54*
+*12.11 iteraties stuur*
 
-*12.12 iteraties knop	55*
+*12.12 iteraties knop*
 
-*12.13 iteraties middenconsole + interfaces	56*
+*12.13 iteraties middenconsole + interfaces*
 
-*12.14 A.I. en smartglass toepassingen	61*
+*12.14 A.I. en smartglass toepassingen*
+
+## 1. Samenvatting
+Semester 1 was de focus vooral de vraagstellingen en ontdekkingen van de auto-industrie. Door interviews met mensen van het vak depannage en leasing werd ondervonden dat er een dilemma is tussen de vraag van touchscreens en de enorme vraag die ervoor is bij car dashboards. 
+
+Wij zijn daarom begonnen met zoeken naar een afleidingsbuffer voor dit probleem dat het vernieuwend en veilig houdt. Hierbij werd de focus van het project gebaseerd op veiligheid en gebruiksvriendelijkheid. De uitdaging werd onderzocht a.d.h.v. interviews, stakeholder mapping, DFV, benchmarking, fishbone, state-of-the-art, moodboards en vooronderzoek.
+Onze conclusie bij semester 1 was dat we teveel zaten te denken en te weinig dingen uitvoerden. Ook werd te weinig gekeken naar de visie van de gebruiker. Daarom werd hierop in semester 2 een duidelijke respons gedaan.
+
+Semester 2 was vooral bedoeld voor concepten te maken en uit te testen, voor duidelijk te kijken wat de gebruiker denkt over bepaalde ideeën. Hier werd een duw gegeven aan de “define” en “develop”-stappen, waar in semester 1 minder naar werd gekeken. Hier werd “concept-testing” , “low-fi prototypes”, “wireframes”, “storyboard”, “product architecture”, “physical prototypes”, “interactive prototypes”, “feature breakdown”, “performance measurements”, “UX testing”, “IxD insights” en “antropometric analysis” toegepast.
+
+## 2. introductie
+Er werd de uitdaging gegeven om een autodashboard te bedenken voor futuristisch gebruik. Hierbij was gebruiksvriendelijkheid en veiligheid de noodzaak. Er werd in begin van semester 1 ook vermeld dat indien mogelijk er geen touchscreen mag gebruikt worden in het interieur. Door interviews te doen met mensen van het vak werd inzicht gevonden in wat de problemen zijn in de auto-industrie. Accidenten worden het meest veroorzaakt door afleiding in het verkeer. 1 van de grootste oorzaken is het tokkelen en navigeren op een touchscreen. Dit probleem valt moeilijk op te lossen, want de meeste vraag in de automarkt zijn wagens met touchscreen. Het brengt de ogen van de weg, de functies zitten die verborgen in menu’s die je moet zoeken, verouderde Tech moet langer laden, etc.
+
+Voor sommige experten is het zo dat knoppen niet weg moeten, omdat het juist minder afleiding biedt. Door spiergeheugen kan de bestuurder onderling weten op welke knop hij moet drukken als hij zit te rijden, dit brengt meer comfort. Een alternatief voor dit probleem dat vandaag bestaat is een Heads-up display die voor de bestuurder geviseerd staat. Bij ons werd een stap verder gezet, om er bijna zelf voor te zorgen dat de bestuurder kan rijden zonder zelfs de middenconsole te gebruiken voor een normale ervaring van rijden. 
+
+Onze doelstellingen zijn bedoeld voor bestuurders tussen 20 tot 50-jarige chauffeurs. 20-jarigen zijn nog maar juist geïntroduceerd aan het rijden en kunnen makkelijk zich aanpassen met nieuwe Tech, terwijl mensen van 50 hun manier van rijden beu zijn en zoeken naar een nieuwe ervaring van transport. Ons doel is om voor deze mensen een dashboard te maken die voelt als een stap vooruit met daarbij minder afleiding van de middenconsole en veel meer gemak met de gegeven functies.
 
