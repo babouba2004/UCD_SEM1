@@ -367,3 +367,61 @@ Een A.I.-assistent zou perfect zijn voor shortcuts te krijgen naar wat je wil do
 
 (voor grotere foto’s van deze iteraties zijn te vinden in de bijlages)
 
+#### <ins>Prototypes knop:</ins>
+<b>Iteratie 1:</b> De eerste iteratie van de knop werd gemaakt uit karton. Dit model gaf indicaties voor waar de gebruiker zijn vingers kon plaatsen. Dit ontwerp paste wel niet goed bij het rest van het interieur dus werd al rap overgeschakeld naar een meer abstracte vorm.
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/898defa8-0b78-4c71-adb2-1b1f582aa2c7)
+
+<b>Iteratie 2:</b> Bij de 2de iteratie werd een model gevormd in foam die een redelijke muisvorm had. Dit zag er al meer herkenbaar uit voor de gebruiker. Het voorwerp was makkelijk om mee te klikken, scrollen en draaien. Het enige wat nog beter kon was het ergonomische.
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/aa798532-4cd0-4f41-9227-4d906be878cd)
+
+<b>Iteratie 3:</b> Bij de 3de in laatste iteratie werd de hoogte en breedte aangepast. Dit model werd geprint met een 3D-printer. Dit zorgt voor betere afwerking en een meer constante vorm vergeleken met de 2de iteratie.
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/1768047b-648e-4d87-b2bb-3c7a574a0e61)
+
+(er zijn extra foto’s te vinden van iteraties in de bijlage)
+
+- Interactieve prototypes
+
+#### <ins>Prototype middenconsole:</ins>
+<b>Iteratie 1:</b> Het eerste model van de middenconsole was een simpel laptop scherm met daarbij een stuur en een knop voor te besturen. Hierbij werd iteratie 1 van zowel het stuur als de knop gebruikt. De openstaande tabs van de laptop stelden de menu categorieën voor.
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/686ab7bb-9ed0-4f06-aee1-d1b3dfb4074f)
+
+<b>Iteratie 2:</b> Bij de 2de iteratie werd nog altijd gewerkt met een laptopscherm gewerkt, maar deze keer werd zelf een interface ontworpen met figma en protopie. Figma diende voor het navigeren en protopie voor verschillende functies in de menu’s uit te testen. De 2de iteratie van de knop werd hierbij gebruikt.
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/c8155851-163e-48ad-96c5-479158aa4017)
+
+<b>Iteratie 3:</b> Er werd een monitor gebruikt gekoppeld aan een laptop en werd geplaatsen in een zelfontworpen houten staander voor bepaalde testen. Hierbij werd de 3de iteratie knop gebruikt voor besturing. Voor dit te simuleren werd gebruik gemaakt van een smartphone die alles in werkelijkheid uitvoert. De staander is zodanig gemaakt dat het beeldscherm in verschillende posities kan geplaatst worden. Deze staander werd ook gebruikt voor testen met het stuur.
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/67803ed0-65e4-4cdf-92c2-2c5e08baf429)
+
+(meer foto’s en figma + protopie te vinden in de bijlages)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
