@@ -399,25 +399,85 @@ Een A.I.-assistent zou perfect zijn voor shortcuts te krijgen naar wat je wil do
 
 (meer foto’s en figma + protopie te vinden in de bijlages)
 
+•	<b>Testen</b>
+
+<b>Ergonomische testen/ antropometric analysis</b>
+
+Ergonomische testen werden uitgevoerd in siemens NX en met gebruikers via info gevonden op de site DINbelg. Voor siemens NX was vooral de romp en linkerarm belangrijk, omdat deze het meest in een vaste positie zitten tijdens het rijden.
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/3b674d48-8558-4301-93f2-8a513fc422b7)
+
+Voor de knop werd ook ergonomische informatie opgenomen. Vooral werd met dit kader gewerkt:
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/639bbac6-fa53-4fa5-9b5a-1e8ac742b365)
+
+Deze waarden zijn het gemiddelde tussen Belgische mannen en vrouwen tussen de 20 en 65 jaar. Vooral de handbreedte werd toegepast voor het te weten hoeveel vingers zich zouden positioneren op de knop. 
+
+Om meer uitgebreide informatie te hebben over de testen die werden voldaan bij het zoeken naar de geschikte grootte van de knop, is het aangeraden om te kijken bij bijlagen 12.9 Antropometrische analyse van de knop.
 
 
 
+<b>UX testing (user experience testing)</b>
+
+<b>Iteratie 1:</b> uitleg van deze test valt te vinden bij concept testing. Dit idee werd verder uitgewerkt tot een 2de en 3de iteratie om zo tot een bruikbaar middenconsole te geraken. 
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/d2ee1609-fc13-4f1d-90dc-8cd08beaed11)
+
+<b>Iteratie 2:</b> via iteratie 2 werd vooral gekeken of de menu’s goed in elkaar zitten en of alles makkelijk te vinden valt. Hierbij werd niet getimed. Er werd enkel gevraagd of het ontwerp goed in elkaar zit. Er wordt ook bekeken hoe vlot het verloopt. Hier werd nog een muis gebruikt voor het werk te kunnen doen van de muis. 
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/40c1c85a-926a-4046-ae9f-4976628a5918)
+
+<b>Iteratie 3:</b> via iteratie 3 van de middenconsole kan een gedefinieerd middenconsole getest worden voor gebruikers, hierbij was 1 persoon nodig voor te kijken wat de testpersoon doet en het na te bootsen via zijn gsm zodat het echt lijkt. Ondertussen timet de andere hoelang het duurt voor bepaalde taken uit te voeren. Ook werd in deze iteratie het stuur getest door smartglass te simuleren. Ook werd het scherm voor menu’s op verschillende standen gehouden. Hierbij werd geconcludeerd dat de staande houding beter is
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/54e3c440-349f-456d-ba63-1a6a5c662331)
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/b16c7930-169f-4d75-a8f2-5431f7dd7ee9)
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/30b4b17a-4abf-4bf6-ade7-a469a3c0c25c)
 
 
+## 7. resultaat / Delivery
+
+Render + setup:
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/67f8640b-1102-4365-ad1f-ad058c9a778b)
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/47bc8971-d9fe-44bc-82a4-5ad6dd7942d0)
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/e9dd7154-c6dd-4375-bd34-076da39c2e03)
+
+<b>smartglass:</b>
+
+<ins>Met alle pop-ups:</ins>
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/ee735278-9835-46a7-976b-c81888942c53)
+
+<ins>Zonder pop-ups</ins>
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/2fa9013b-3458-4e98-bff6-b1ca55d78cc0)
 
 
+## 8.Kritische Reflectie
+Hoewel we hebben besloten om geen specifieke tests uit te voeren voor de smartglass-voorruit, moeten we kritisch evalueren of dit de juiste benadering was. Onze redenering was gebaseerd op de bestaande hud’s van videogames waarbij intuïtie een grote rol speelt. Daarop werd geredeneerd over hoe de hud op een vooruit eruit kan zien. Echter is het ook belangrijk om te overwegen of het ontbreken van gerichte tests voor de smartglass-voorruit heeft geleid tot een onvolledig begrip van hoe deze functie wordt ervaren door de bestuurder.
+
+Het is mogelijk dat door geen specifieke tests uit te voeren voor de smartglass-voorruit, we hebben gemist hoe goed deze functie werkt in de praktijk en of er potentiële verbeterpunten zijn. Bijvoorbeeld, misschien hebben we niet voldoende rekening gehouden met mogelijke afleiding veroorzaakt door informatie op de voorruit, zelfs als het binnen het gezichtsveld van de bestuurder wordt weergegeven. Dit zou een belangrijke overweging kunnen zijn, aangezien zelfs subtiele afleiding de rijveiligheid kan beïnvloeden.
+
+Een andere kritische overweging is de interface van de middenconsole en hoe deze functioneert in combinatie met het dashboard als geheel. Hoewel we tests hebben uitgevoerd om het gebruiksgemak van de interface te beoordelen, moeten we blijven evalueren of deze interface voldoende intuïtief is voor alle gebruikers. Het is mogelijk dat bepaalde functies of knoppen niet zo duidelijk zijn als we hadden gehoopt, wat kan leiden tot frustratie of verwarring bij de bestuurder.
+
+Bovendien moeten we overwegen of de keuze voor een glazen middenconsole de beste optie is in termen van duurzaamheid en gebruiksgemak. Hoewel het esthetisch aantrekkelijk kan zijn, kan glas gevoeliger zijn voor krassen of breuken, wat de algehele bruikbaarheid van de middenconsole kan beïnvloeden.
 
 
+## 9.Reflectie op Leerresultaten
+Een belangrijk leermoment was het besluit om geen specifieke tests uit te voeren voor de smartglass-voorruit. Deze keuze was gebaseerd op onze hypothese dat het tonen van informatie binnen het gezichtsveld van de bestuurder de alertheid zou verhogen. Echter, deze aanpak kan ons leren dat het soms cruciaal is om bepaalde aannames te testen, zelfs als ze logisch lijken. Het benadrukt het belang van meetbaar bewijs en directe gebruikerstests bij het evalueren van nieuwe ontwerp-oplossingen.
+
+Een ander leermoment is het belang van het blijven heroverwegen van ontwerpbeslissingen, zelfs nadat uitgebreid onderzoek is uitgevoerd. Hoewel we het ergonomische stuur uitvoerig hebben geanalyseerd, toont de kritische reflectie aan dat er altijd ruimte is voor verdere evaluatie en verbetering. Dit benadrukt het iteratieve karakter van ontwerpprocessen en het belang van voortdurende kritische reflectie om de beste resultaten te bereiken.
+
+Het project heeft ook de waarde van gebruikerstests en feedback benadrukt bij het beoordelen van de bruikbaarheid en effectiviteit van ontwerpoplossingen. Hoewel we tests hebben uitgevoerd voor de interface van de middenconsole, laat de kritische reflectie zien dat er altijd ruimte is voor verbetering en verfijning op basis van gebruikerservaringen. Dit onderstreept het belang van het nauw betrekken van gebruikers bij het ontwerpproces en het actief luisteren naar hun feedback om ontwerpen te optimaliseren voor echte gebruikersbehoeften en -voorkeuren.
+
+Ten slotte heeft het project geleid tot een beter begrip van het belang van het balanceren van esthetiek, functionaliteit en veiligheid in autodesign. Hoewel een glazen middenconsole esthetisch aantrekkelijk kan zijn, moeten we ook rekening houden met praktische overwegingen zoals duurzaamheid en gebruiksgemak. Dit benadrukt het belang van het vinden van een evenwicht tussen verschillende ontwerpoverwegingen om een gebruiksvriendelijk en veilig product te creëren.
 
 
+## 10. Conclusie
+In conclusie heeft ons onderzoek naar het autodashboardconcept met een smartglass-voorruit, ergonomisch stuur en een nieuwe interface voor de middenconsole waardevolle inzichten opgeleverd. Hoewel we ons hebben gericht op het testen van het compatibele stuur en de gebruikersinterface van de middenconsole, hebben we bewust geen tests uitgevoerd voor de smartglass-voorruit. 
 
-
-
-
-
-
-
-
+Onze kritische reflectie benadrukt het belang van het blijven testen van aannames, zelfs als ze intuïtief lijken, en het iteratieve karakter van ontwerpprocessen. Door gebruikerstests en voortdurende evaluatie kunnen we blijven streven naar verbetering en optimalisatie van autotechnologieën, met een focus op bruikbaarheid, functionaliteit en veiligheid.
 
 
 
