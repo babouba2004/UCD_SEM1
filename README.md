@@ -479,6 +479,308 @@ In conclusie heeft ons onderzoek naar het autodashboardconcept met een smartglas
 
 Onze kritische reflectie benadrukt het belang van het blijven testen van aannames, zelfs als ze intuïtief lijken, en het iteratieve karakter van ontwerpprocessen. Door gebruikerstests en voortdurende evaluatie kunnen we blijven streven naar verbetering en optimalisatie van autotechnologieën, met een focus op bruikbaarheid, functionaliteit en veiligheid.
 
+## 11. bronnen
+1.	Hundal, Thomas . (2022c). Swedish Test Offers Compelling Evidence That Buttons Are Less Distracting Than Touchscreen Infotainment. Geraadpleegd op 24 januari 2024, van https://www.theautopian.com/swedish-test-offers-compelling-evidence-that-buttons-are-less-distracting-than-touchscreen-infotainment-systems/
+
+2.	Moldrich, Curtis. (2019, 20 augustus). Touchscreen trauma: why we shouldn’t kill buttons just yet. Geraadpleegd op 24 januari 2024, van https://www.carmagazine.co.uk/features/opinion/curtis-moldrich/touchscreens-good-or-bad/
+
+3.	Nedelea, Andrei. (2023, 16 februari). 5 Reasons Why Touchscreens In Cars Are a Bad Idea. Geraadpleegd op 24 januari 2024, van https://www.makeuseof.com/car-touchscreens-bad-idea/#:~:text=It%20Takes%20Your%20Eyes%20Off%20the%20Road&text=Spend%20some%20time%20in%20any,your%20eyes%20off%20the%20road.
+
+4.	Pinatel, Cédric. (2023, 25 mei). Aston Martin DB12 (2023) : la reine de beauté se modernise. Geraadpleegd op 24 januari 2024, van https://www.caradisiac.com/aston-martin-db12-2023-la-reine-de-beaute-se-modernise-202596.htm
+
+5.	Nu ook officieel: Lenovo stopt transparant scherm in een laptop. (2024, 26 februari). Geraadpleegd op 20 mei 2024, van https://itdaily.be/nieuws/business/lenovo-stopt-transparant-scherm-in-een-laptop/ 
+
+6.	Een laptop waar je zo doorheen kijkt. (2024, 26 februari). Geraadpleegd op 20 mei 2024, van https://tweakers.net/reviews/11888/lenovo-thinkbook-transparent-display-laptop-een-laptop-waar-je-doorheen-kijkt.html 
+
+7.	Deze Samsung-televisie is transparant en werkt met de opvolger van OLED. (2024, 8 januari). Geraadpleegd op 20 mei 2024, van https://www.bright.nl/nieuws/1172446/deze-samsung-scherm-is-transparant-maar-wordt-ook-duur.html 
+
+8.	Fujitsu komt met concept doorzichtige telefoon. (2024, 19 januari). Geraadpleegd op 20 mei 2024, van https://www.nieuwemobiel.nl/014513/5963/Fujitsu-komt-met-concept-doorzichtige-telefoon.html 
+
+9.	Rabbit R1: kan deze tech de smartphone echt vervangen?. (2024, 24 januari). Geraadpleegd op 20 mei 2024, van https://www.androidplanet.nl/nieuws/rabbit-r1/ 
+
+## 12. bijlagen
+### 12.1 state-of-the-art
+
+<ins>Hier is hoe de “state-of-the-art” is uitgewerkt:</ins>
+
+<b>wie:</b> Autobestuurders
+
+<b>wat:</b> afgeleid in het verkeer met als 1 van de oorzaken, het beeldscherm
+
+<b>waar:</b> in het interieur van de wagen
+
+<b>wanneer:</b> tijdens het rijden
+
+<b>waarom:</b> afleiding zorgt voor gevaar op de weg. bv elk jaar 150 doden in verkeer door afleiding in de wagen in België.
+
+<b>hoeveel:</b> onduidelijk om nu te zeggen wat de specifieke oorzaak is van de afleiding specifiek, maar het touchscreen-beeldscherm in een wagen is een grote factor.
+
+<b>trends:</b> 
+
+-technologisch: AR, VR, SmartGlass, hand-recognition, motion detection, touch-detection, light-detection,...
+
+-design: smooth-vorming, grotere displays, touchscreen, voice-recognition, .
+
+-klimaat: meer onverwacht weer, oneffen wegen, .
+
+<b>voorlopige oplossingen:</b> software zodanig maken dat er geen zoeken te doen is in een auto-display.
+
+<b>beperkingen/randvoorwaarden:</b> geen beeldscherm in het dashboard, user-friendly en veilig.
+
+### 12.2 template vooronderzoek
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/bf4fa868-20e5-4f3a-87a8-44a4789a04c0)
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/085bef5b-c52a-46ae-b9a6-1a62a4543d6d)
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/9956e6d7-7fac-4994-ae93-618033a2f01f)
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/9b0a2592-4fe7-48cf-9822-fea4e39b137e)
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/819cb806-e63f-4d6a-bd87-4e6b3b6ea67c)
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/3f62e1f1-7366-45e6-b44b-b636913bf326)
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/70fcfa2d-369c-49bc-a385-53f030834a95)
+
+### 12.3 storyboard
+Mark is een 40 plusser die met zijn gezin op reis wil gaan en wil daarvoor een auto die makkelijk de weg kan aantonen zonder veel te zoeken waar hij is op een map. In zijn auto vertelt hij waar hij naartoe wil. Waze vraagt of je de snelste, makkelijkste of objectief mooiste weg wil nemen. Je kan erbij vragen waar je onderweg wil passeren. Via een klein beeldscherm en een duidelijke lijn op de vooruit ziet hij waar hij naartoe moet rijden.
+
+Deze duidelijke lijn wordt afgebeeld op de weg zelf, zo vindt hij het minder moeilijk om bv een afslag te nemen. Tijdens de rit vraagt hij google assist voor wat vakantiemuziek om in de sfeer te komen. In da avond wordt nachtdetectie geactiveerd waarbij donkere objecten beter getoond worden. Mark is altijd gewend aan knoppen, die hier gebruikt worden voor praktische toe-einden.
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/cadf4484-34e0-4a92-b4f1-ee06d0ff1ffb)
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/533afda2-5d4b-4ee5-87a0-a62bea400f97)
+
+### 12.4 stakeholders + context
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/92dabdbf-4900-4808-958a-bb5eb9597560)
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/0291f058-3906-45e9-9a1c-18b97003168c)
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/5fe22940-dd86-4ec1-b94f-80486ea9de1c)
+
+### 12.5 DFV
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/bbc4c3b6-6de9-48f1-80d3-31848173997e)
+
+### 12.6 wireframes
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/e214ac00-d65d-40bf-9948-e47c79e5f41e)
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/bf73d7f6-3b1e-4549-afaf-d1e89ce7873a)
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/82627f75-fee3-401b-9912-911c3944f6af)
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/8ed70aeb-49d8-469a-a7aa-27fe01f6c6d0)
+
+### 12.7 concept testing stuur
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/dffb88ed-db79-4673-a674-6039c0467dc8)
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/2700ab29-7217-41da-a9e4-851976b69066)
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/ea02dcc6-2ceb-433c-af58-eb5823868240)
+
+### 12.8 smartglass proces
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/f32a2654-d4c7-406f-92ed-3e6426245594)
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/6ea4b9ea-63b6-46c7-b831-4826aaa63450)
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/50be7a91-3a4c-4af8-9992-cfd7205b567b)
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/433929e5-c77a-45a3-bfb8-2d4b756e9b7a)
+
+### 12.9 Antropometrische analyse van de knop
+Voor de optimalisatie van de fysieke ergonomie van de knop op de middenconsole is een grondige antropometrische analyse cruciaal. Het doel van deze analyse is het creëren van een geoptimaliseerd ontwerp dat voldoet aan de ergonomische eisen zoals grootte, vorm en positionering van de knop op de middenconsole.
+
+Allereerst is het belangrijk om de maten te vinden die een invloed hebben op de ergonomie van de knop. Hierbij richtten we ons op de handbreedte, handlengte en duimbreedte, aangezien dit de grootste invloed heeft op de gepaste grootte en vorm van de knop.
+
+Deze metingen worden bij zowel mannen als vrouwen uitgevoerd volgens een testprotocol:
+
+#### 12.9.1 Handbreedte
+Analyse van de meetresultaten van de handbreedte (A) bij een steekproef van 13 individuen tussen de leeftijden van 20 en 65 jaar. De metingen zijn uitgevoerd om inzicht te krijgen in de variabiliteit van handbreedtes binnen de populatie en om te bepalen welke breedte van de knop op de middenconsole geschikt is voor een optimale ergonomie. 
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/5ea770eb-c745-4c51-9f5c-f20e82d3a4cb)
+
+#### 12.9.2 Handlengte
+Analyse van de meetresultaten van de handlengte (B) bij een steekproef van 13 testpersonen tussen de leeftijdscategorie van 20 – 65 jaar. De metingen werden uitgevoerd om een beter beeld te krijgen van hoe lang de knop moet zijn voor een optimale ergonomie.
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/729e9293-4d6f-4b73-b08a-3ba76fd0048c)
+
+#### 12.9.3 Duimbreedte
+Analyse van de meetresultaten van de duimbreedte (C) bij een steekproef van 13 testpersonen tussen de leeftijdscategorie van 20 – 65 jaar. De metingen werden uitgevoerd om een beter beeld te krijgen van hoe lang de knop moet zijn voor een optimale ergonomie.
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/fb953c03-d5e0-4b33-a6f0-4f2a3e6edf82)
+
+#### 12.9.4 Optellen en aftrekken van lichaamsmaten
+Om vast te stellen welke lengte en breedte er nodig is voor de knop, moeten we eerst inzien hoe de hand gepositioneerd is op bijvoorbeeld een computermuis of een reeds bestaande centrale knop van een middenconsole.
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/8c979eb1-e912-4a44-9dc7-ae2eb857da6f)
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/1abaff2f-b29a-40aa-9bda-c55d5047649a)
+
+Op de foto’s is duidelijk te zien dat het begin van de muis in het ‘kommetje’ van de handpalm ligt. Voor een precieze meting te doen vanaf het ‘kommetje’ van de handpalm tot de vingertop van de middelvinger is er geen exacte plaatsbepaling te vinden online waar deze moet gemeten worden. 
+
+Dus kiezen we zelf een maat die ongeveer moet overeenkomen. We noemen dus de geschikte lengte van de knop, de afstand van het begin van de “handkom” tot de vingertop van de middelvinger. Deze lengte is ongeveer hetzelfde als de handlengte – de duimbreedte + 5mm marge. We kiezen voor 5mm marge omdat het gebied van de Carpale beenderen (ongeveer de duimbreedte) verschilt per individu.
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/7a5f94d3-a2f5-41b5-9e9e-6ff131682231)
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/c7f56088-25b3-4261-8a83-91f292bc3fb3)
+
+We stellen eerst de algemene formules van het gemiddelde en de standaarddeviatie voor.
+
+<b>gem.A±B = gem.A ± gem.B</b>
+
+Aangezien er individueel wordt gekeken voor de handbreedte en de handlengte, hebben we maar 1 gemiddelde nodig om bijvoorbeeld de lengte of de breedte van de knop te bepalen.
+
+Bij volgende berekeningen zien we:
+
+Gem.A = 87mm
+
+Gem.B = 185mm
+
+SDA = 6,9mm
+
+SDB = 12mm
+
+Om ervoor te zorgen dat 98% van de Belgische bevolking de knop kan gebruiken, moeten we de 2 uiterste personen van de Belgische bevolking opnemen in onze berekeningen.
+
+P1 = gem. – 2,33 * SD
+
+P99 = gem. + 2,33 * SD
+
+Bij volgende berekeningen zien we:
+
+P1A = 87mm – 2,33 * 6,9mm = 71mm
+
+P1B = 185mm – 2,33 * 12mm = 157mm
+
+---------------
+
+P99A = 87mm + 2,33 * 6,9mm = 103mm
+
+P99B = 185mm + 2,33 * 12mm = 212mm
+
+#### 12.9.5 Interpreteren van een bestaande productafmeting
+Bij het testen van de handbreedte en de handlengte bij 13 personen kregen we een gemiddelde van 87mm voor de handbreedte en een gemiddelde van 185mm van de handlengte. Als onze waarden vergelijken met deze van de website Dinbelg (https://www.dinbelg.be/volwassenentotaal.htm), komen we uit op een gemiddelde waarde van 83mm voor de handbreedte en een gemiddelde van 189mm van de handlengte. Om na te gaan of onze gemeten gemiddelden voldoende zijn bij de afmetingen van onze knop zullen we dit controleren met de formule voor het berekenen van de Z-waarde:
+
+<b>Z = (X – gem.) / SD</b>
+
+Z = (185 – 189) / 12 = - 0,33
+
+Hiermee stemt percentiel 37 overeen van de handlengte. Dat betekent dat iedereen die grotere handen heeft, namelijk 63%, vind dat deze knop aan de kleinere kant is.
+
+We kunnen dus hieruit afleiden dat een lengte voor de knop van 189mm en een breedte voor de knop van 83mm de meest geschikte afmetingen heeft voor het grootste aantal van de Belgische bevolking.
+
+De bekomen resultaten voor de nieuwe handlengte – de duimbreedte + 5mm marge is dus als volgt:
+
+Om nu de nieuwe handlengte te bekomen trekken we de gemiddelde waarde 189mm af van de gemiddelde duimbreedte die werd gemeten met de 13 personen.
+
+Knoplengte = handlengte – duimbreedte + 5mm
+
+                         = 189mm – (19mm + 5mm)
+                         
+                         = 165mm
+
+Als we dit nog eens vergelijken met de Z-waarde bekomen we het volgende:
+
+Z = (165 – 164) / 12 = 0,083
+
+Hiermee stemt het percentiel 53 overeen van de Z-tabel voor de handlengte – de duimbreedte+5mm marge. Dat betekent iedereen die kleinere handen heeft, namelijk 46%, zal de knop net iets te groot vinden.
+
+Uit gebruikerstesten bij verschillende iteraties van onze knoppen is gebleken dat het beter is om een kleinere knop te hebben dan een grotere knop. Zowel bij gebruikerstesten van het stuur is hieruit ook gebleken dat mensen liever een kleiner handvat hebben dan een te groot handvat.
+
+Om er dus voor te zorgen dat de knop kleiner is voor het grootste deel van de bevolking opteren we dus voor een lengte van 163mm.
+
+De laatste stap voor een geschikte lengte voor de knop, is om ook nog rekening de houden met de kromming van de vingers wanneer deze over de knop heen liggen. Om het eenvoudig te maken kiezen we ervoor om de lengte van 163mm de delen door 2. Hiermee bekomen we dan een geschikte lengte van 82mm.
+
+Na het testen met een schuimmodel van de knop met een lengte van 82mm hebben we ondervonden dat dit het best in de hand ligt en het meest comfortabel aanvoelt dan grotere lengtes.
+
+Bij de kromming van de vingers werd bij de gebruikerstesten ondervonden dat de handbreedte ook smaller werd. Omdat er hier weinig onderzoek en online materiaal is hebben we een berekening toegepast die het best aansluit bij de wensen van onze testpersonen, namelijk “liever een kleinere knop, dan een grotere knop.” 
+
+De geschikte breedte voor de knop werd als volgt berekent:
+
+Uiteindelijke breedte knop = gemiddelde handbreedte – 10mm marge
+
+                                                        = 87mm – 10mm
+                                                        
+                                                        = 77mm
+                                                        
+<b>De geschikte breedte voor de knop is 77mm.</b>
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/3fa3a1c7-6a71-46e5-9c3c-f52ccb501b01)
+
+### 12.10 stuur proces + uitleg
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/1a1ac2cd-8f6f-4b18-89db-a677a598ee14)
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/894790a4-a16d-44c1-80e3-73d0cd6144eb)
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/8a080fd7-4749-4f6f-a63d-d0171d1b0c8b)
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/54d45597-c53f-4514-9878-985655c1d012)
+
+### 12.11 iteraties stuur
+
+Eerste iteratie:
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/f8e4d77e-b01b-41d7-afbe-e85f486d087b)
+
+Tweede iteratie:
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/cea540bc-f248-47b7-b0ae-d050c1eb0e62)
+
+### 12.12 iteraties knop
+
+Iteratie 1:
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/d6a3fdbc-dd49-4ede-8e1e-3626fbf763a7)
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/e249d061-5dce-4c61-8ab8-b2fc9e4eb07c)
+
+Iteratie 2:
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/0ffcde0d-8306-4f29-a301-c6ef5e2ced68)
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/f3b6eca5-ceb0-4feb-ba5d-2dcbc05275fa)
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/9bacc80d-8966-4311-bce5-0c8de2b1391e)
+
+Iteratie 3:
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/5f7b3e9e-bace-4610-b269-769ba3412889)
+
+### 12.13 iteraties middenconsole + interfaces
+
+Iteratie 1:
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/ef87ff76-807b-416d-8b57-4b2bef2c5cd5)
+
+Iteratie 2:
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/c933a523-47fd-4948-81a4-3dc00a4a510c)
+
+Iteratie 3:
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/d5e93358-c3e4-4879-927a-d2d4311833f3)
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/126be3b2-3b47-47e5-939e-836507652d22)
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/cbf25202-e53a-4f22-9612-16216b4abeaa)
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/7f678f4c-ddcc-4067-8627-98cca490ef23)
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/e3729fec-7c09-49e8-8e6d-365905305ea0)
+
+<b>Figma lay-out:</b>
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/e9f699b2-24c2-4ecd-8906-516c143d3b6f)
+
+<b>Protopie layout:</b>
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/0810898e-f457-4042-86d5-29f7211dcc38)
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/f1488ee6-b8cd-4b55-82a0-f62fdd4d85a9)
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/9a95071a-c75b-4b97-b868-17a81491e215)
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/3a195365-2fde-497e-8ea1-717af954ce9d)
+
+
+### 12.14 A.I. en smartglass toepassingen
+
+![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/0b27eb30-ef68-49fb-b9c3-a45d77303894)
 
 
 
