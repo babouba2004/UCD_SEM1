@@ -595,7 +595,7 @@ Voor de optimalisatie van de fysieke ergonomie van de knop op de middenconsole i
 
 Allereerst is het belangrijk om de maten te vinden die een invloed hebben op de ergonomie van de knop. Hierbij richtten we ons op de handbreedte, handlengte en duimbreedte, aangezien dit de grootste invloed heeft op de gepaste grootte en vorm van de knop.
 
-Deze metingen worden bij zowel mannen als vrouwen uitgevoerd volgens een testprotocol: 
+Deze metingen worden bij zowel mannen als vrouwen uitgevoerd volgens een testprotocol: https://github.com/babouba2004/testprotocol_antropometrie
 
 #### 12.9.1 Handbreedte
 Analyse van de meetresultaten van de handbreedte (A) bij een steekproef van 13 individuen tussen de leeftijden van 20 en 65 jaar. De metingen zijn uitgevoerd om inzicht te krijgen in de variabiliteit van handbreedtes binnen de populatie en om te bepalen welke breedte van de knop op de middenconsole geschikt is voor een optimale ergonomie. 
