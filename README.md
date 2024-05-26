@@ -500,7 +500,7 @@ Onze kritische reflectie benadrukt het belang van het blijven testen van aanname
 
 ## 12. bijlagen
 
-De informatie die hieronder aan bod komt, vind u ook vooral terug in ons Miroboard.
+<b>De informatie die voor de rest van het verslag aan bod komt, vind u ook vooral terug in ons Miroboard.</b>
 
 Link naar onze Miroboard: https://miro.com/welcomeonboard/bzFaMzZZSjRNaFgwUWRmSDBGQzVYamtuOERyeUtRcjVqNXg5Z2llWDQwYk5jdURDN3JJZ25FUVVteW9IQWxwN3wzNDU4NzY0NTMzOTU2MzIxMDEzfDI=?share_link_id=233462131174
 
