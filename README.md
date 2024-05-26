@@ -499,6 +499,11 @@ Onze kritische reflectie benadrukt het belang van het blijven testen van aanname
 9.	Rabbit R1: kan deze tech de smartphone echt vervangen?. (2024, 24 januari). Geraadpleegd op 20 mei 2024, van https://www.androidplanet.nl/nieuws/rabbit-r1/ 
 
 ## 12. bijlagen
+
+De informatie die hieronder aan bod komt, vind u ook vooral terug in ons Miroboard.
+
+Link naar onze Miroboard: https://miro.com/welcomeonboard/bzFaMzZZSjRNaFgwUWRmSDBGQzVYamtuOERyeUtRcjVqNXg5Z2llWDQwYk5jdURDN3JJZ25FUVVteW9IQWxwN3wzNDU4NzY0NTMzOTU2MzIxMDEzfDI=?share_link_id=233462131174
+
 ### 12.1 state-of-the-art
 
 <ins>Hier is hoe de “state-of-the-art” is uitgewerkt:</ins>
