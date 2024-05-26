@@ -145,8 +145,6 @@ The better this factor, the lower the score. All scores are added up, the lower 
 
 ![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/8318046b-af7b-4f02-9b2a-e5e94d465f5e)
 
-![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/c03e3f0f-ede5-4274-9df6-1b16494bcbaf)
-
 ![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/61112171-6bd0-4495-aebe-42da877ee98e)
 ![image](https://github.com/babouba2004/UCD_SEM1/assets/170766817/b0adba23-fa22-4dc8-9014-19f64d03ccd4)
 
